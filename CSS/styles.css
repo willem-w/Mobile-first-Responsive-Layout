@@ -160,7 +160,7 @@ footer {
     flex: 33.3333333%
    }
     
-  }
+
 
 .profile-img {
     padding-right: 30px;
@@ -183,7 +183,7 @@ footer {
 .full {
   display: block;
 }
-
+}
 /*!---------- 3.3 Desktop ----------*/
 @media screen and (min-width: 1024px) {
     
